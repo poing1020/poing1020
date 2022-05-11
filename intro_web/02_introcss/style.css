@@ -1,0 +1,33 @@
+/* selector de etiquetas */
+
+
+body {
+    background-color:rgb(0, 139, 74)
+}
+f
+p{color: white;
+front: size 25px;
+font-weight:bolder;}
+
+/*selector de etiquetas*/
+h1{font-family: 'Oleo Script', cursive;}
+.rojo{
+    color: rgb(238, 255, 0);
+}
+img{
+    /*height:300px;*/
+    width: 500px;
+}
+a{font-family: 'Oleo Script', cursive;
+    color:aliceblue;
+    front: size 25px;
+    text-decoration:none;
+}
+#secial
+font-family: 'Oleo Script', cursive;
+
+{ color:aquamarine
+fron: size  20px;
+front-weight:ligten
+}
+

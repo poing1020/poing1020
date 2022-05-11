@@ -1,0 +1,21 @@
+#banner{
+    background-color: rgb(32, 178, 64);
+    height: 100%;
+    width: 300px;
+}
+#banner .content {
+    background-color: blueviolet;
+    height: 150px;
+    /* text-align: right; */
+}
+h1{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+#home{
+    background-color: aquamarine;
+    padding: 30px 100px 200px;
+}
